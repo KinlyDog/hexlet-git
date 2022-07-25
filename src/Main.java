@@ -40,8 +40,5 @@ public class Main {
         for (int i : keyList) {
             pairList.remove(i);
         }
-
-		  // добавляем комментарий для git
-
     }
 }
