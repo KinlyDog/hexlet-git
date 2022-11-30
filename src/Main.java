@@ -41,6 +41,7 @@ public class Main {
             pairList.remove(i);
         }
 
+		  // добавляем комментарий для git
 
     }
 }
